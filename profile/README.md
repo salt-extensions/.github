@@ -20,8 +20,8 @@ include:
 
 ... and many more!
 
-Explore our [repositories](https://github.com/salt-extensions) to find an extension that suits your needs or to get
-inspiration for your next contribution.
+Explore our [repositories](https://github.com/orgs/salt-extensions/repositories) to find an extension that suits your
+needs or to get inspiration for your next contribution.
 
 ## Contributing
 
@@ -30,7 +30,9 @@ Check out the [Salt Project Contributing
 Guide](https://docs.saltproject.io/en/latest/topics/development/contributing.html) and/or the `CONTRIBUTING.md` file in
 a each extension repository for guidelines on how to get started.
 
-## Stay Connected Join the Salt community:
+## Stay Connected
+
+Join the Salt community:
 
 - [Salt Community Slack](https://saltstackcommunity.slack.com/)
 - [Salt Working Groups](https://saltproject.io/working-groups/)

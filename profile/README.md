@@ -32,6 +32,11 @@ a each extension repository for guidelines on how to get started.
 
 ## Stay Connected
 
+Check out the Salt Extensions Working Group:
+
+- [Salt Extensions Working Group Meeting Notes](https://github.com/salt-extensions/community)
+- [Salt Community Calendar](https://saltproject.io/calendar/)
+
 Join the Salt community:
 
 - [Salt Community Slack](https://saltstackcommunity.slack.com/)
@@ -50,7 +55,7 @@ licenses such as Apache 2.0 or MIT. Check individual repositories for specific l
 ## Support
 
 Community support for each extension is provided by the maintainers and contributors of that extension. For general Salt
-support, visit the [Salt Project Community](https://community.saltproject.io/).
+support, visit the [Salt Project Community](https://saltproject.io/).
 
 ---
 

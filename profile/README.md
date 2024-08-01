@@ -39,7 +39,7 @@ Check out the Salt Extensions Working Group:
 
 Join the Salt community:
 
-- [Salt Community Slack](https://saltstackcommunity.slack.com/)
+- [Salt Community Discord](https://discord.gg/bPah23K7mG)
 - [Salt Working Groups](https://saltproject.io/working-groups/)
 
 Follow us on social media:

@@ -26,9 +26,9 @@ needs or to get inspiration for your next contribution.
 ## Contributing
 
 Whether you're fixing a bug, enhancing an existing extension, or starting a new project, your contributions are welcome!
-Check out the [Salt Project Contributing
-Guide](https://docs.saltproject.io/en/latest/topics/development/contributing.html) and/or the `CONTRIBUTING.md` file in
-a each extension repository for guidelines on how to get started.
+Check out the [Create and Maintain Salt Extensions](https://salt-extensions.github.io/salt-extension-copier/),
+[Salt Project Contributing Guide](https://docs.saltproject.io/en/latest/topics/development/contributing.html),
+and the `CONTRIBUTING.md` file in each extension repository for guidelines on how to get started.
 
 ## Stay Connected
 
